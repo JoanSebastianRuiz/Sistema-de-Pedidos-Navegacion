@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Margherita",
+    "categoryId": 1,
+    "price": 28000,
+    "description": "Pizza clásica con salsa de tomate, mozzarella fresca, albahaca y un toque de aceite de oliva."
+  },
+  {
+    "id": 2,
+    "name": "Pizza Pepperoni",
+    "categoryId": 1,
+    "price": 32000,
+    "description": "Pizza con salsa de tomate, mozzarella y abundantes rodajas de pepperoni."
+  },
+  {
+    "id": 3,
+    "name": "Pizza Hawaiana",
+    "categoryId": 1,
+    "price": 30000,
+    "description": "Combinación de jamón, piña, mozzarella y salsa de tomate sobre una masa artesanal."
+  },
+  {
+    "id": 4,
+    "name": "Pizza Cuatro Quesos",
+    "categoryId": 1,
+    "price": 36000,
+    "description": "Mezcla de mozzarella, parmesano, gorgonzola y queso crema sobre una base de salsa de tomate."
+  },
+  {
+    "id": 5,
+    "name": "Pizza BBQ Chicken",
+    "categoryId": 1,
+    "price": 35000,
+    "description": "Pizza de pollo a la parrilla, salsa BBQ, mozzarella, cebolla morada y cilantro fresco."
+  },
+  {
+    "id": 6,
+    "name": "Pizza Vegetariana",
+    "categoryId": 1,
+    "price": 33000,
+    "description": "Pizza con champiñones, pimentón, cebolla, tomate cherry, aceitunas y mozzarella."
+  },
+  {
+    "id": 7,
+    "name": "Pizza Carnes",
+    "categoryId": 1,
+    "price": 39000,
+    "description": "Pizza especial con pepperoni, jamón, carne molida, salami, mozzarella y salsa de tomate."
+  },
+  {
+    "id": 8,
+    "name": "Pizza Mexicana",
+    "categoryId": 1,
+    "price": 37000,
+    "description": "Pizza picante con carne molida, jalapeños, maíz, frijoles, cebolla y queso mozzarella."
+  },
+  {
+    "id": 9,
+    "name": "Pizza Carbonara",
+    "categoryId": 1,
+    "price": 38000,
+    "description": "Pizza cremosa con salsa blanca, tocineta, champiñones, parmesano y mozzarella."
+  },
+  {
+    "id": 10,
+    "name": "Pizza Suprema",
+    "categoryId": 1,
+    "price": 42000,
+    "description": "Nuestra pizza más completa con pepperoni, jamón, salami, champiñones, pimentón, cebolla y aceitunas."
+  },
+  {
+    "id": 11,
+    "name": "Hamburguesa Clásica",
+    "categoryId": 2,
+    "price": 22000,
+    "description": "Hamburguesa de carne de res con queso, lechuga, tomate, cebolla y salsa de la casa."
+  },
+  {
+    "id": 12,
+    "name": "Hamburguesa BBQ",
+    "categoryId": 2,
+    "price": 26000,
+    "description": "Carne de res, queso cheddar, tocineta crocante, cebolla caramelizada y salsa BBQ."
+  },
+  {
+    "id": 13,
+    "name": "Hamburguesa Doble",
+    "categoryId": 2,
+    "price": 32000,
+    "description": "Dos jugosas carnes de res acompañadas de doble queso cheddar, cebolla, pepinillos y salsa especial."
+  },
+  {
+    "id": 14,
+    "name": "Hamburguesa Crispy Chicken",
+    "categoryId": 2,
+    "price": 25000,
+    "description": "Filete de pollo crocante con queso, lechuga, tomate y mayonesa de ajo."
+  },
+  {
+    "id": 15,
+    "name": "Hamburguesa Mexicana",
+    "categoryId": 2,
+    "price": 28000,
+    "description": "Carne de res, guacamole, jalapeños, queso cheddar, tomate y salsa picante de la casa."
+  },
+  {
+    "id": 16,
+    "name": "Hamburguesa Bacon",
+    "categoryId": 2,
+    "price": 27000,
+    "description": "Carne de res acompañada de abundante tocineta, queso cheddar, cebolla caramelizada y salsa BBQ."
+  },
+  {
+    "id": 17,
+    "name": "Perro Clásico",
+    "categoryId": 3,
+    "price": 16000,
+    "description": "Perro caliente con salchicha, papas trituradas, queso, cebolla y salsas tradicionales."
+  },
+  {
+    "id": 18,
+    "name": "Perro Especial",
+    "categoryId": 3,
+    "price": 20000,
+    "description": "Salchicha premium con tocineta, queso mozzarella, papas trituradas, cebolla y salsa de la casa."
+  },
+  {
+    "id": 19,
+    "name": "Perro BBQ",
+    "categoryId": 3,
+    "price": 21000,
+    "description": "Salchicha, tocineta, queso cheddar, cebolla caramelizada, papas trituradas y salsa BBQ."
+  },
+  {
+    "id": 20,
+    "name": "Perro Mexicano",
+    "categoryId": 3,
+    "price": 22000,
+    "description": "Salchicha con guacamole, jalapeños, maíz, queso, cebolla y salsa picante."
+  },
+  {
+    "id": 21,
+    "name": "Papas Fritas",
+    "categoryId": 4,
+    "price": 9000,
+    "description": "Porción de papas fritas crujientes sazonadas con sal."
+  },
+  {
+    "id": 22,
+    "name": "Papas con Queso",
+    "categoryId": 4,
+    "price": 14000,
+    "description": "Papas fritas cubiertas con queso cheddar fundido y salsa especial."
+  },
+  {
+    "id": 23,
+    "name": "Aros de Cebolla",
+    "categoryId": 4,
+    "price": 12000,
+    "description": "Aros de cebolla empanizados y fritos hasta obtener una textura crujiente."
+  },
+  {
+    "id": 24,
+    "name": "Alitas BBQ",
+    "categoryId": 4,
+    "price": 22000,
+    "description": "Alitas de pollo horneadas y bañadas en nuestra salsa BBQ artesanal."
+  },
+  {
+    "id": 25,
+    "name": "Nachos Especiales",
+    "categoryId": 4,
+    "price": 24000,
+    "description": "Nachos de maíz con queso fundido, carne molida, guacamole, pico de gallo y jalapeños."
+  },
+  {
+    "id": 26,
+    "name": "Ensalada César",
+    "categoryId": 5,
+    "price": 18000,
+    "description": "Lechuga romana, pollo a la parrilla, crutones, parmesano y aderezo César."
+  },
+  {
+    "id": 27,
+    "name": "Ensalada Mediterránea",
+    "categoryId": 5,
+    "price": 19000,
+    "description": "Mezcla de lechugas, tomate cherry, pepino, aceitunas, queso feta y aderezo de hierbas."
+  },
+  {
+    "id": 28,
+    "name": "Ensalada de Pollo",
+    "categoryId": 5,
+    "price": 21000,
+    "description": "Pollo a la parrilla acompañado de lechuga, tomate, maíz, zanahoria y aderezo de la casa."
+  },
+  {
+    "id": 29,
+    "name": "Pasta Alfredo",
+    "categoryId": 6,
+    "price": 26000,
+    "description": "Pasta fettuccine preparada con salsa cremosa de queso parmesano y mantequilla."
+  },
+  {
+    "id": 30,
+    "name": "Pasta Bolognesa",
+    "categoryId": 6,
+    "price": 25000,
+    "description": "Pasta con salsa de tomate, carne molida, cebolla, zanahoria y hierbas italianas."
+  },
+  {
+    "id": 31,
+    "name": "Pasta Carbonara",
+    "categoryId": 6,
+    "price": 28000,
+    "description": "Espaguetis con una salsa cremosa de huevo, parmesano y tocineta crocante."
+  },
+  {
+    "id": 32,
+    "name": "Pasta Primavera",
+    "categoryId": 6,
+    "price": 24000,
+    "description": "Pasta acompañada de brócoli, champiñones, tomate cherry, pimentón y salsa cremosa."
+  },
+  {
+    "id": 33,
+    "name": "Sándwich de Pollo",
+    "categoryId": 7,
+    "price": 19000,
+    "description": "Pan artesanal relleno de pollo a la parrilla, lechuga, tomate, queso y mayonesa."
+  },
+  {
+    "id": 34,
+    "name": "Sándwich Club",
+    "categoryId": 7,
+    "price": 23000,
+    "description": "Sándwich de tres pisos con pollo, jamón, queso, tocineta, lechuga, tomate y mayonesa."
+  },
+  {
+    "id": 35,
+    "name": "Sándwich Philly",
+    "categoryId": 7,
+    "price": 27000,
+    "description": "Pan artesanal con carne de res salteada, cebolla, pimentón y queso fundido."
+  },
+  {
+    "id": 36,
+    "name": "Combo Hamburguesa Clásica",
+    "categoryId": 8,
+    "price": 30000,
+    "description": "Hamburguesa clásica acompañada de papas fritas y una bebida gaseosa personal."
+  },
+  {
+    "id": 37,
+    "name": "Combo Hamburguesa BBQ",
+    "categoryId": 8,
+    "price": 34000,
+    "description": "Hamburguesa BBQ con papas fritas y bebida personal a elección."
+  },
+  {
+    "id": 38,
+    "name": "Combo Pizza Personal",
+    "categoryId": 8,
+    "price": 35000,
+    "description": "Pizza personal de cualquier sabor tradicional acompañada de papas y bebida."
+  },
+  {
+    "id": 39,
+    "name": "Combo Familiar",
+    "categoryId": 8,
+    "price": 65000,
+    "description": "Pizza familiar, dos porciones de papas fritas y cuatro bebidas personales."
+  },
+  {
+    "id": 40,
+    "name": "Coca-Cola",
+    "categoryId": 9,
+    "price": 6000,
+    "description": "Bebida gaseosa Coca-Cola fría en presentación personal."
+  },
+  {
+    "id": 41,
+    "name": "Coca-Cola Zero",
+    "categoryId": 9,
+    "price": 6000,
+    "description": "Bebida gaseosa Coca-Cola Zero fría en presentación personal."
+  },
+  {
+    "id": 42,
+    "name": "Limonada Natural",
+    "categoryId": 9,
+    "price": 8000,
+    "description": "Limonada preparada con jugo de limón natural, agua y un toque de azúcar."
+  },
+  {
+    "id": 43,
+    "name": "Limonada de Coco",
+    "categoryId": 9,
+    "price": 12000,
+    "description": "Refrescante combinación de limón natural, crema de coco y hielo."
+  },
+  {
+    "id": 44,
+    "name": "Té Helado",
+    "categoryId": 9,
+    "price": 7000,
+    "description": "Té negro frío con limón y un ligero toque dulce."
+  },
+  {
+    "id": 45,
+    "name": "Agua Mineral",
+    "categoryId": 9,
+    "price": 5000,
+    "description": "Agua mineral fría en presentación personal."
+  },
+  {
+    "id": 46,
+    "name": "Brownie con Helado",
+    "categoryId": 10,
+    "price": 14000,
+    "description": "Brownie de chocolate caliente acompañado de una bola de helado de vainilla."
+  },
+  {
+    "id": 47,
+    "name": "Cheesecake de Frutos Rojos",
+    "categoryId": 10,
+    "price": 15000,
+    "description": "Cheesecake cremoso sobre una base de galleta y cubierto con salsa de frutos rojos."
+  },
+  {
+    "id": 48,
+    "name": "Tiramisú",
+    "categoryId": 10,
+    "price": 16000,
+    "description": "Postre italiano preparado con café, queso mascarpone, cacao y bizcochos suaves."
+  },
+  {
+    "id": 49,
+    "name": "Helado de Vainilla",
+    "categoryId": 10,
+    "price": 9000,
+    "description": "Helado cremoso de vainilla servido con salsa de chocolate."
+  },
+  {
+    "id": 50,
+    "name": "Copa de Chocolate",
+    "categoryId": 10,
+    "price": 13000,
+    "description": "Postre de chocolate con crema batida, salsa de chocolate y trozos de brownie."
+  }
+]

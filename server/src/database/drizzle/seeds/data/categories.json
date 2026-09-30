@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Pizzas"
+  },
+  {
+    "id": 2,
+    "name": "Hamburguesas"
+  },
+  {
+    "id": 3,
+    "name": "Perros Calientes"
+  },
+  {
+    "id": 4,
+    "name": "Entradas"
+  },
+  {
+    "id": 5,
+    "name": "Ensaladas"
+  },
+  {
+    "id": 6,
+    "name": "Pastas"
+  },
+  {
+    "id": 7,
+    "name": "Sándwiches"
+  },
+  {
+    "id": 8,
+    "name": "Combos"
+  },
+  {
+    "id": 9,
+    "name": "Bebidas"
+  },
+  {
+    "id": 10,
+    "name": "Postres"
+  }
+]
